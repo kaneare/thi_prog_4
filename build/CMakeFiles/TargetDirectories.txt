@@ -1,0 +1,5 @@
+C:/Users/kaneare/Downloads/lab4/build/CMakeFiles/third_lab_lib.dir
+C:/Users/kaneare/Downloads/lab4/build/CMakeFiles/vehicle_logic.dir
+C:/Users/kaneare/Downloads/lab4/build/CMakeFiles/third_lab.dir
+C:/Users/kaneare/Downloads/lab4/build/CMakeFiles/edit_cache.dir
+C:/Users/kaneare/Downloads/lab4/build/CMakeFiles/rebuild_cache.dir

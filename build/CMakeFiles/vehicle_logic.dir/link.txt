@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libvehicle_logic.a CMakeFiles/vehicle_logic.dir/src/SedanFactory.cpp.obj CMakeFiles/vehicle_logic.dir/src/SUVFactory.cpp.obj CMakeFiles/vehicle_logic.dir/src/SportsCarFactory.cpp.obj CMakeFiles/vehicle_logic.dir/src/ElectricCarFactory.cpp.obj CMakeFiles/vehicle_logic.dir/src/VehicleService.cpp.obj CMakeFiles/vehicle_logic.dir/src/VehiclePrinter.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libvehicle_logic.a
